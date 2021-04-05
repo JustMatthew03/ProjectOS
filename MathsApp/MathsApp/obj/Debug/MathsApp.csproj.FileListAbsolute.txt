@@ -1,0 +1,14 @@
+C:\Users\Matth\source\repos\MathsApp\MathsApp\bin\Debug\MathsApp.exe.config
+C:\Users\Matth\source\repos\MathsApp\MathsApp\bin\Debug\MathsApp.exe
+C:\Users\Matth\source\repos\MathsApp\MathsApp\bin\Debug\MathsApp.pdb
+C:\Users\Matth\source\repos\MathsApp\MathsApp\obj\Debug\MathsApp.csprojAssemblyReference.cache
+C:\Users\Matth\source\repos\MathsApp\MathsApp\obj\Debug\MathsApp.Properties.Resources.resources
+C:\Users\Matth\source\repos\MathsApp\MathsApp\obj\Debug\MathsApp.csproj.GenerateResource.cache
+C:\Users\Matth\source\repos\MathsApp\MathsApp\obj\Debug\MathsApp.csproj.CoreCompileInputs.cache
+C:\Users\Matth\source\repos\MathsApp\MathsApp\obj\Debug\MathsApp.exe
+C:\Users\Matth\source\repos\MathsApp\MathsApp\obj\Debug\MathsApp.pdb
+C:\Users\Matth\source\repos\MathsApp\MathsApp\bin\Debug\MathsApp.exe.manifest
+C:\Users\Matth\source\repos\MathsApp\MathsApp\bin\Debug\MathsApp.application
+C:\Users\Matth\source\repos\MathsApp\MathsApp\obj\Debug\MathsApp.exe.manifest
+C:\Users\Matth\source\repos\MathsApp\MathsApp\obj\Debug\MathsApp.application
+C:\Users\Matth\source\repos\MathsApp\MathsApp\obj\Debug\Calculator.Calculator.resources
